@@ -1,0 +1,2 @@
+# Black-Scholes-Option-Pricing-Model-Applied-to-the-S-P-500-SPY-
+This project implements the Black-Sholes-Merton model in Python to price European options utilizing real market data from the S&amp;P500 ETF, estimating the historical volatility, while calculating option prices  and Greek variables. Graphs have been implemented to visualize payoff and price relationships using yfinance (Yahoo Finance).
